@@ -13,7 +13,8 @@ layout: default
 - Horários e Laboratórios
   - **Aulas**
     - sexta-feira,
-      - TURMA 1, Laboratótio 05, 13:00 as 14:30
-      - TURMA 2, Laboratótio 05, 14:30 as 16:00
-  - **CAP**
-    - quarta-feira, 10:30 as 12:00
+      - **TURMA 1**, Laboratótio 05, 13:00 as 14:30
+      - **TURMA 2**, Laboratótio 05, 14:30 as 16:00
+  - **CAP Laboratório 11**
+    - **TURMA 1**, quarta-feira, 09:00 as 10:30
+    - **TURMA 2**, quarta-feira, 10:30 as 12:00
