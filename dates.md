@@ -11,7 +11,7 @@ layout: default
 | 01   | sexta-feira 15-02 | [Aula inicial](lectures/intro)                        |
 | 02   | sexta-feira 22-02 | [Dia Internet Segura SaferNet](slides/SID_Teens.pptx) |
 | 03   | sexta-feira 01-03 | [Hora do código](lectures/hourofcode)                 |
-| 04   | sexta-feira 08-03 |                                                       |
+| 04   | sexta-feira 08-03 | [Meu primeiro jogo](lectures/01-meu-primeiro-jogo)    |
 | 05   | sexta-feira 15-03 |                                                       |
 | 06   | sexta-feira 22-03 |                                                       |
 | 07   | sexta-feira 29-03 |                                                       |
