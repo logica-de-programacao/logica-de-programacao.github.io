@@ -10,6 +10,8 @@
 - [Qual o intervalo em dias de uma data?](#qual-o-intervalo-em-dias-de-uma-data)
 - [Conversor de medidas](#conversor-de-medidas)
 
+[códigos do professor](https://gist.github.com/leonardo-minora/5008d0ab998e543f73c3cf6325e6d73e)
+
 ## Trocar valor de 2 variáveis
 
 **objetivo**
