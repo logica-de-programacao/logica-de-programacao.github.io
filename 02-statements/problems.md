@@ -8,6 +8,7 @@
 - [Qual o antecessor e o sucessor de um número?](#qual-o-antecessor-e-o-sucessor-de-um-n%C3%BAmero)
 - [Qual a média aritmética de 3 números?](#qual-a-m%C3%A9dia-aritm%C3%A9tica-de-3-n%C3%BAmeros)
 - [Qual o intervalo em dias de uma data?](#qual-o-intervalo-em-dias-de-uma-data)
+- [Conversor de medidas](#conversor-de-medidas)
 
 ## Trocar valor de 2 variáveis
 
@@ -48,7 +49,7 @@ informe o segundo valor
 **objetivo**
 
 - Calcular o dobro de um número
-  
+
 **descrição**
 
 Contrua um algoritmo que armazene o valor `999` na variável `fator` e calcule o dobro desse valor na variável `produto`.
@@ -166,7 +167,8 @@ informe o 3o operando
 
 **descrição**
 
-Construa um algoritmo que: 
+Construa um algoritmo que:
+
 1. armazene a data atual em 3 valores `2019`, `4` e `9` nas variáveis `data_atual_ano`, `data_atual_mês` e `data_atual_dia`.
 2. armazene a data de nascimento em 3 valores `1975`, `5` e `1` nas variáveis `data_nascimento_ano`, `data_nascimento_mês` e `data_nascimento_dia`.
 3. Calcule o número de dias e armazene na variável `idade_em_dias`.
@@ -176,7 +178,8 @@ Imprima na tela, usando as variáveis, a equação e a média.
 
 **variação**
 
-Construa um algoritmo que: 
+Construa um algoritmo que:
+
 1. receba do teclado a data atual em 3 valores e armazene nas variáveis `data_atual_ano`, `data_atual_mês` e `data_atual_dia`.
 2. receba do teclado a data de nascimento em 3 valores e armazene nas variáveis `data_nascimento_ano`, `data_nascimento_mês` e `data_nascimento_dia`.
 3. Calcule o número de dias e armazene na variável `idade_em_dias`.
@@ -201,17 +204,18 @@ Imprima na tela, usando as variáveis, a equação e a média.
  1
 
  -> você tem dias
- ```
- 
- ## Conversor de medidas
+```
 
- **objetivos**
+## Conversor de medidas
 
- - Converter temperatura em Fahrenheit em Celsius
+**objetivos**
+
+- Converter temperatura em Fahrenheit em Celsius
 
 **descrição**
 
-Construa um algoritmo que: 
+Construa um algoritmo que:
+
 1. receba do teclado a temperatura em Fahrenheit e armazene na variável `fahrenheit`.
 2. Calcule o a temperatura em Celsius e armazene na variável `celcius`. `celcius = 5 * (fahrenheit - 32) / 9`.
 
@@ -220,6 +224,7 @@ Imprima na tela, usando as variáveis, tanto a temperatura em Fahrenheit quanto 
 **variação**
 
 Existem diversas outras medidas que podem ser usadas para fazer conversão de valores. Alguns exemplos:
+
 1. Conversão de Celcius em Fahrenheit;
 2. [Conversão de Metros em Pés](https://www.metric-conversions.org/pt/comprimento/metros-em-pes.htm);
 3. [Conversão de metros em polegadas](https://www.metric-conversions.org/pt/comprimento/metros-em-polegadas.htm)

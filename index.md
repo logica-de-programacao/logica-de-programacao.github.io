@@ -1,5 +1,6 @@
 ---
 layout: default
+title: lógica de programação
 ---
 
 # [](#header-1) Infomações gerais da disciplina

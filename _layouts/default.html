@@ -10,14 +10,14 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>{{ default: site.github.repository_name }}</title>
+    <title>{{ default: site.title }}</title>
 </head>
 
 <body>
     <div class="wrapper">
         <header>
             <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
 
             {% if site.data.conteudo %}
             <p>

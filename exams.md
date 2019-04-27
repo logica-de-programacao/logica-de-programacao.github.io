@@ -6,7 +6,17 @@ layout: default
 
 ## [](#header-2) 1o Bimestre
 
+1. [Lista de exercício inicial](02-statements/problems)
+2. [Lista de exercício sobre estrutura de decisão](03-decisions/problems)
+
 ## [](#header-2) 2o Bimestre
+
+- Participação do DOJO em sala
+- URI
+- Lista de exercícios
+  1. [Estrutura de repetição](03-decisions/problems)
+  2. Coleções
+  3. Arquivos
 
 ## [](#header-2) 3o Bimestre
 
