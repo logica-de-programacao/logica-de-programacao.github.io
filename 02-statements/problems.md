@@ -169,22 +169,15 @@ informe o 3o operando
 
 Construa um algoritmo que:
 
-1. armazene a data atual em 3 valores `2019`, `4` e `9` nas variáveis `data_atual_ano`, `data_atual_mês` e `data_atual_dia`.
-2. armazene a data de nascimento em 3 valores `1975`, `5` e `1` nas variáveis `data_nascimento_ano`, `data_nascimento_mês` e `data_nascimento_dia`.
+1. receba do teclado o ano atual e armazene na variável `data_atual_ano`.
+2. receba do teclado o ano de nascimento e armazene na variável `data_nascimento_ano`.
 3. Calcule o número de dias e armazene na variável `idade_em_dias`.
 
-Considere que todo mês tem 30 dias, consequentemente todo ano tem 360 dias.
-Imprima na tela, usando as variáveis, a equação e a média.
+Considere que :
 
-**variação**
+- todo mês tem 30 dias, consequentemente todo ano tem 360 dias.
+- ano atual - ano de nascimento = idade em anos
 
-Construa um algoritmo que:
-
-1. receba do teclado a data atual em 3 valores e armazene nas variáveis `data_atual_ano`, `data_atual_mês` e `data_atual_dia`.
-2. receba do teclado a data de nascimento em 3 valores e armazene nas variáveis `data_nascimento_ano`, `data_nascimento_mês` e `data_nascimento_dia`.
-3. Calcule o número de dias e armazene na variável `idade_em_dias`.
-
-Considere que todo mês tem 30 dias, consequentemente todo ano tem 360 dias.
 Imprima na tela, usando as variáveis, a equação e a média.
 
 **exemplo**
@@ -192,18 +185,10 @@ Imprima na tela, usando as variáveis, a equação e a média.
 ```
  informe o ano da data de hoje
  2019
- informe o mês da data de hoje
- 4
- informe o dia da data de hoje
- 9
  informe o ano do seu nascimento
  1975
- informe o mês do seu nascimento
- 5
- informe o dia do seu nascimento
- 1
 
- -> você tem dias
+ -> você tem 15840 dias
 ```
 
 ## Conversor de medidas
@@ -238,5 +223,5 @@ Existem diversas outras medidas que podem ser usadas para fazer conversão de va
 informe a temperatura em fahrenheit
 100
 
--> 100 graus Fahrenheit corresponde a 55 graus Celcius
+-> 100 graus Fahrenheit corresponde a 37.78 graus Celcius
 ```
