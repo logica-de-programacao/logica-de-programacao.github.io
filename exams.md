@@ -14,7 +14,7 @@ layout: default
 - Participação do DOJO em sala
 - URI
 - Lista de exercícios
-  1. [Estrutura de repetição](03-loops/problems)
+  1. [Estrutura de repetição](04-loops/problems)
   2. Coleções
   3. Arquivos
 
