@@ -138,11 +138,11 @@ Se ao repetir o procedimento diversas vezes e obtivermos o valor 1, o número in
 
 Exemplo, tomemos o número 7, que é um número feliz:
 
-1. 7² = 49
-2. 4² + 9² = 97
-3. 9² + 7² = 130
-4. 1² + 3² + 0² = 10
-5. 1² + 0² = 1
+- 7² = 49
+- 4² + 9² = 97
+- 9² + 7² = 130
+- 1² + 3² + 0² = 10
+- 1² + 0² = 1
 
 Podemos observar nesse exemplo que os números 49, 97, 130 e 10 também são felizes.
 Existem infinitos números felizes.
