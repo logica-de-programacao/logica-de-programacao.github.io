@@ -11,13 +11,17 @@ layout: default
 
 ## [](#header-2) 2o Bimestre
 
-- Participação do DOJO em sala
-- URI
+- ~~Participação do DOJO em sala~~
+- ~~URI~~
 - Lista de exercícios
   1. [Estrutura de repetição](03-loops/problems)
-  2. Coleções
-  3. Arquivos
+- Avaliações
+  - grupo
+  - individual
 
 ## [](#header-2) 3o Bimestre
+
+- Avaliação individual 50%
+- [Lista de exercícios no URI Online Judge 50%](https://www.urionlinejudge.com.br/judge/en/disciplines/join/4806)
 
 ## [](#header-2) 4o Bimestre

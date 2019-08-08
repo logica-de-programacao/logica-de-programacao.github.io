@@ -11,14 +11,15 @@ title: lógica de programação
   - Carga horária total: 80 horas/aula (60 horas relógio)
   - Carga horária semanal: 2 horas/aula
   - Carga horária por bimestre: 10 semanas com carga-horária de 20 horas/aula
+- Professores
+  - Leonardo LUCENA
+  - Leonardo MINORA
 - Horários e Laboratórios
   - **Aulas**
     - sexta-feira,
       - **TURMA 1**, Laboratótio 05, 13:00 as 14:30
       - **TURMA 2**, Laboratótio 05, 14:30 as 16:00
   - **CAP Laboratório 11**
-    - **TURMA 1**, segunda-feira, 09:00 as 10:30
-    - **TURMA 2**, quarta-feira, 09:00 as 10:30
-    - quarta-feira, 10:30 as 12:00
+    - quinta-feira, 08:30 as 12:00
   - Grupo de chat [Telegram](https://telegram.org)
     - [Lógica de programação](https://t.me/logica_de_programacao)
