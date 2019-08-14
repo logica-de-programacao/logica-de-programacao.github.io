@@ -19,7 +19,7 @@ title: lógica de programação
     - sexta-feira,
       - **TURMA 1**, Laboratótio 05, 13:00 as 14:30
       - **TURMA 2**, Laboratótio 05, 14:30 as 16:00
-  - **CAP Laboratório 11**
+  - **CAP Laboratório 05**
     - quinta-feira, 08:30 as 12:00
   - Grupo de chat [Telegram](https://telegram.org)
     - [Lógica de programação](https://t.me/logica_de_programacao)
