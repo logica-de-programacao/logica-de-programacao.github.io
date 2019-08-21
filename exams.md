@@ -23,5 +23,11 @@ layout: default
 
 - Avaliação individual 50%
 - [Lista de exercícios no URI Online Judge 50%](https://www.urionlinejudge.com.br/judge/en/disciplines/join/4806)
+  - Básica 09/08
+  - Comando de decisão 16/08
+  - Comando de repetição 23/08
+  - Texto 30/08
+  - Listas 06/09
+  - Matrizes
 
 ## [](#header-2) 4o Bimestre
