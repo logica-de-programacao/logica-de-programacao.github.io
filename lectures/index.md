@@ -16,3 +16,4 @@ layout: default
 - [Comando de decisão](../slides/unplugged/04-DecisionStatement.pdf)
 - [Comando de repetição](../slides/unplugged/05-LoopStatement.pdf)
 - [Cadeia de caractere](../slides/unplugged/06-string.pdf)
+- [Vetores](../slides/unplugged/07-vetores.pdf)
