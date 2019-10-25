@@ -17,4 +17,4 @@ layout: default
 - [Comando de repetição](../slides/unplugged/05-LoopStatement.pdf)
 - [Cadeia de caractere](../slides/unplugged/06-string.pdf)
 - [Vetores](../slides/unplugged/07-vetores.pdf)
-- [sub-rotinas](../slides/unplugged/08-subrotinas.pdf)
+- [sub-rotinas](../slides/unplugged/08-subrotinas.pdf) [código-fonte python](https://gist.github.com/leonardo-minora/606c607ec8cf537a716c08580b9f7d11)
