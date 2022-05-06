@@ -20,4 +20,4 @@ title: lógica de programação
          -  **TURMA 1**, 09:00 as 10:30
          -  **TURMA 2**, 09:30 as 12:00
    -  **CAP**
-      -  à deffinir
+      -  à definir
